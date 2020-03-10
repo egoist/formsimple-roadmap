@@ -11,4 +11,4 @@ Build contact form, feedback form with [FormSimple](https://formsimple.io):
 ## Timeline
 
 - 2020/03/10: Make `formsimple-roadmap` repo public.
-- Check out what's coming in [issue tracker](https://github.com/egoist/formsimple-roadmap/issues).
+- Check out what's coming or give feedback in [issue tracker](https://github.com/egoist/formsimple-roadmap/issues).
